@@ -419,6 +419,10 @@ mxMarkEdit is a free software for Mac for writing texts and todo items in Markdo
 
 Free, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.
 
+**[MarkdownObserver](https://lars-pohlmann.de/markdownobserver/)** (open source @ github [`larspohlmann/markdownobserver`](https://github.com/larspohlmann/markdownobserver))
+
+Native macOS Markdown reader focused on fast preview and workspace workflows. Features file and folder watching with live change tracking, collapsible sidebar with subfolder grouping, and saveable folder favorites. Also available on the [App Store](https://apps.apple.com/app/id6760550501).
+
 ## Markdown Mobile Editors
 ### Android
 
